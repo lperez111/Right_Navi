@@ -8,3 +8,33 @@
   margin: 0 auto;  
   width: 720px;
 }
+
+h2 {
+  margin-top: 0px;
+}
+
+nav {
+  width:120px;
+  float: right;
+}
+
+ul {
+  float: right;
+}
+
+.content {
+  border-right: solid gray 2px;
+  /*padding-right: 20px;*/
+  width: 580px;
+  float: left;
+}
+
+li {
+  list-style-type: none;
+
+}
+
+.footer {
+  border-top: solid gray 2px;
+  clear: both;
+}
